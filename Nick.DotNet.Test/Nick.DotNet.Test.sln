@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nick.Test.Delegate", "Nick.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nick.Test.DelegateAndEvent", "Nick.Test.DelegateAndEvent\Nick.Test.DelegateAndEvent.csproj", "{6799ACF0-3AEE-4440-AAE4-36BD166AA990}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nick.Test.Lambda", "Nick.Test.Lambda\Nick.Test.Lambda.csproj", "{882DDC9C-9C0D-4FDA-9278-16F83840CF4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6799ACF0-3AEE-4440-AAE4-36BD166AA990}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6799ACF0-3AEE-4440-AAE4-36BD166AA990}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6799ACF0-3AEE-4440-AAE4-36BD166AA990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882DDC9C-9C0D-4FDA-9278-16F83840CF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882DDC9C-9C0D-4FDA-9278-16F83840CF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882DDC9C-9C0D-4FDA-9278-16F83840CF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882DDC9C-9C0D-4FDA-9278-16F83840CF4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
